@@ -1,5 +1,6 @@
+streamlit>=1.30.0
+openai>=2.0.0
 pandas
 sqlalchemy
-streamlit
 python-dotenv
-openai
+requests
